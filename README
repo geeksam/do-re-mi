@@ -1,0 +1,14 @@
+This is a dummy repository I've set up to demonstrate a few basic Git operations.
+
+In the movie "The Sound of Music" is a song about learning to sing.  It starts like this:
+
+    Let's start at the very beginning
+    A very good place to start
+    When you read you begin with A-B-C
+    When you sing you begin with do-re-mi
+
+    Do-re-mi, do-re-mi
+    The first three notes just happen to be
+    Do-re-mi, do-re-mi
+
+Like the alphabet or the scale, this repository isn't meant to be anything useful.  It just contains a few separate branches that you can merge or rebase together until you're comfortable with how those operations work.
