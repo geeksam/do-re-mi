@@ -1,2 +1,3 @@
 Foo: A thing, a thingy thing
 Bar: Another thingy thing
+Baz: A thing I call a thing
